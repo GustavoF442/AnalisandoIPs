@@ -23,6 +23,6 @@
         * Validade da máscara informada em relação à classe do IP.
 
 <h2>Exemplo de uso</h2>
-![peek_1](https://github.com/GustavoF442/AnalisandoIPs/assets/68716914/9ff89aa9-7508-4aef-be7f-1874423c0b64)
+
 
 
