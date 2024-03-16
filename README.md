@@ -1,6 +1,6 @@
-<h1>Análise Avançada de Endereço IP e Máscara de Rede</h1>
+<h1>Análise de Endereço IP e Máscara de Rede</h1>
 
-<p>Este programa realiza uma análise profunda de um endereço IP e sua máscara de rede, fornecendo informações detalhadas e verificando a validade da máscara em relação à classe do IP.</p>
+<p>Este programa realiza uma análise de um endereço IP e sua máscara de rede, fornecendo informações detalhadas e verificando a validade da máscara em relação à classe do IP.</p>
 
 <h2>Funcionalidades</h2>
 
@@ -23,3 +23,6 @@
         * Validade da máscara informada em relação à classe do IP.
 
 <h2>Exemplo de uso</h2>
+![peek_1](https://github.com/GustavoF442/AnalisandoIPs/assets/68716914/9ff89aa9-7508-4aef-be7f-1874423c0b64)
+
+
