@@ -22,7 +22,6 @@
         * Máscara de rede informada e sua máscara padrão.
         * Validade da máscara informada em relação à classe do IP.
 
-<h2>Exemplo de uso</h2>
 
 
 
